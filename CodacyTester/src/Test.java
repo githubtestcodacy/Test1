@@ -7,4 +7,8 @@ return;
 		}
 		return;
 	}
+	
+	public void thisTest() {
+		System.out.println("THIS iS RANDOM");
+	}
 }
