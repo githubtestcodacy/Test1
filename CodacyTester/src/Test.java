@@ -10,5 +10,7 @@ return;
 	
 	public void thisTest() {
 		System.out.println("THIS iS RANDOM");
+		System.out.println("THIS iS RANDOM");
+
 	}
 }
