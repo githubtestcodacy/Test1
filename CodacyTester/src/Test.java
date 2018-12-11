@@ -9,9 +9,12 @@ public class Test {
 
 
 	public void method1() {
+		System.out.println("additional commit");
+
 		if(true) {
 return;
 		}
 		return;
+		
 	}
 }
