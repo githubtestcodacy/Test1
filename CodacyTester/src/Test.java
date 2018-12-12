@@ -8,6 +8,7 @@ public class Test {
 
 	public void method1() {
 		if(true) {
+			String test = "2";
 return;
 		}
 		return;
